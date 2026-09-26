@@ -1,2 +1,5 @@
-# atelier-hourly
-A living public studio — notes, sketches, and hourly site features. Private by default, public when you say so.
+# Atelier
+
+A small public studio. Accounts via Supabase Auth. Pieces stay private unless marked public.
+
+Hourly features are written into `atelier_hours`.
